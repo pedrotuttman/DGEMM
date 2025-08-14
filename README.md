@@ -1,1 +1,1 @@
-Esse é um repositório destinado aos arquivos utilizados no projeto DGEMM de Arquitetura de Computadores do Prof. Diego Dutra - UFRJ.
+Esse é um repositório destinado aos arquivos utilizados no projeto DGEMM de Arquitetura de Computadores do Prof. Diego Dutra - UFRJ. O objetivo do projeto é observar a mudança no desempenho de um multiplicador de matriz conforme vão sendo adicionados elementos de paralelismo e cache nas implementações dos códigos.
