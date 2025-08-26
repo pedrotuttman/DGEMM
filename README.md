@@ -1,10 +1,10 @@
-🚀 Projeto DGEMM – Multiplicação de Matrizes Otimizada
+#🚀 Projeto DGEMM – Multiplicação de Matrizes Otimizada
 
 Este repositório reúne diferentes implementações da função DGEMM (Double-precision General Matrix Multiply), desenvolvidas no contexto da disciplina Arquitetura de Computadores (UFRJ).
 
 O projeto tem como objetivo avaliar o impacto de otimizações de baixo nível no desempenho da multiplicação de matrizes, explorando desde a implementação ingênua até versões com vetorização (SIMD/AVX-512), cache blocking e paralelismo com OpenMP.
 
-🎯 Objetivos
+#🎯 Objetivos
 
 Implementar diferentes versões do algoritmo DGEMM.
 
@@ -14,7 +14,7 @@ Explorar técnicas de otimização como SIMD, unrolling, cache blocking e parale
 
 Criar scripts em Python para automação de execução e medição de tempo.
 
-⚙️ Implementações
+#⚙️ Implementações
 
 DGEMM1 – Baseline
 
@@ -109,4 +109,4 @@ Conclusão: otimizações de baixo nível em C tornam a multiplicação de matri
 
 👤 Autor
 
-Projeto desenvolvido por [Seu Nome], aluno da UFRJ.
+Projeto desenvolvido por PEdro Tuttman, aluno da UFRJ.
