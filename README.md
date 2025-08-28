@@ -99,4 +99,4 @@ python controlador_dgemm456.py 2000
 ---
 
 ## 👤 Autor
-Projeto desenvolvido por **[Seu Nome]**, aluno da UFRJ.  
+Projeto desenvolvido por **Pedro Tuttman**, aluno da UFRJ.  
